@@ -32,3 +32,5 @@ Deja volar tu imaginación sobre cómo sería más apropiado organizar tu CV con
 Realizar este reto será el primer paso de la construcción de tu portafolio.
 
 Sí tienes alguna duda compartela en el discord para que podamos apoyarte a resolverla.
+
+Entrega el resultado de tu reto compartiendo el link de tu [Code Pen](https://codepen.io/) en el discord :D
